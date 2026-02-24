@@ -1,4 +1,4 @@
-name: Android Build
+name: Windows Build
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - uses: actions/checkout@v4
@@ -24,7 +24,7 @@ jobs:
         uses: game-ci/unity-builder@v4
         with:
           unityVersion: 6000.3.8f1
-          targetPlatform: Android
+          targetPlatform: StandaloneWindows64
         env:
           UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
           UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
@@ -32,5 +32,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: AndroidBuild
-          path: build
+          name: WindowsBuild
+          path: build/Windows

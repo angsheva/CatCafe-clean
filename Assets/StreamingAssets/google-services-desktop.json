@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183219669986",
+    "project_id": "unitycatcafe",
+    "storage_bucket": "unitycatcafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183219669986:android:b2c331380b0577e7edc7bb",
+        "android_client_info": {
+          "package_name": "com.defaultcompany.catzoneproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTOsxh-OCzTINLQmsAPGHaBPiW0T5NQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

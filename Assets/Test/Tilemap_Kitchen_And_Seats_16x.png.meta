@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: a1eaa9c896060c849ad94f420d400c00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4474294120643621073
+    second: Tilemap_Kitchen_And_Seats_16x_0
+  - first:
+      213: -5143551731547173686
+    second: Tilemap_Kitchen_And_Seats_16x_1
+  - first:
+      213: -2117245327114339640
+    second: Tilemap_Kitchen_And_Seats_16x_2
+  - first:
+      213: -1509831970821165716
+    second: Tilemap_Kitchen_And_Seats_16x_3
+  - first:
+      213: 6827569677040005118
+    second: Tilemap_Kitchen_And_Seats_16x_4
+  - first:
+      213: 5431205809041871265
+    second: Tilemap_Kitchen_And_Seats_16x_5
+  - first:
+      213: 4450691075582979132
+    second: Tilemap_Kitchen_And_Seats_16x_6
+  - first:
+      213: 7682037249632104379
+    second: Tilemap_Kitchen_And_Seats_16x_7
+  - first:
+      213: -315284134714792868
+    second: Tilemap_Kitchen_And_Seats_16x_8
+  - first:
+      213: -3342011281065245249
+    second: Tilemap_Kitchen_And_Seats_16x_9
+  - first:
+      213: -1627027116467594969
+    second: Tilemap_Kitchen_And_Seats_16x_10
+  - first:
+      213: 5132140064154919042
+    second: Tilemap_Kitchen_And_Seats_16x_11
+  - first:
+      213: -1066444654224752768
+    second: Tilemap_Kitchen_And_Seats_16x_12
+  - first:
+      213: 4561893730917399146
+    second: Tilemap_Kitchen_And_Seats_16x_13
+  - first:
+      213: 643178255789137163
+    second: Tilemap_Kitchen_And_Seats_16x_14
+  - first:
+      213: 661628264939857404
+    second: Tilemap_Kitchen_And_Seats_16x_15
+  - first:
+      213: -880761942415914398
+    second: Tilemap_Kitchen_And_Seats_16x_16
+  - first:
+      213: 2156644339234336389
+    second: Tilemap_Kitchen_And_Seats_16x_17
+  - first:
+      213: -263863561715472335
+    second: Tilemap_Kitchen_And_Seats_16x_18
+  - first:
+      213: 4070733328620297127
+    second: Tilemap_Kitchen_And_Seats_16x_19
+  - first:
+      213: 2543853857731459967
+    second: Tilemap_Kitchen_And_Seats_16x_20
+  - first:
+      213: -1476363706084428578
+    second: Tilemap_Kitchen_And_Seats_16x_21
+  - first:
+      213: -1672446617765782555
+    second: Tilemap_Kitchen_And_Seats_16x_22
+  - first:
+      213: -485811017876891860
+    second: Tilemap_Kitchen_And_Seats_16x_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 161
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f4910cc2e71e30800000000000000
+      internalID: 4474294120643621073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc094da3fe6e98b0800000000000000
+      internalID: -5143551731547173686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 169
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca7ef6b7980e92e0800000000000000
+      internalID: -2117245327114339640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 164
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d2dac62dffb0be0800000000000000
+      internalID: -1509831970821165716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa23f727660ce50800000000000000
+      internalID: 6827569677040005118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a19af558e48f5b40800000000000000
+      internalID: 5431205809041871265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 94
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cef15d3f704cd30800000000000000
+      internalID: 4450691075582979132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 99
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfe3a76d241c9a60800000000000000
+      internalID: 7682037249632104379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 103
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54220bffb2ef9bf0800000000000000
+      internalID: -315284134714792868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb502c4527ace91d0800000000000000
+      internalID: -3342011281065245249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729550b3573ab69e0800000000000000
+      internalID: -1627027116467594969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28021857236093740800000000000000
+      internalID: 5132140064154919042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 17
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fb15cbc3a3331f0800000000000000
+      internalID: -1066444654224752768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 54
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ab966ad2a1f4f30800000000000000
+      internalID: 4561893730917399146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d119747370de800800000000000000
+      internalID: 643178255789137163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 54
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf52919c6639e2900800000000000000
+      internalID: 661628264939857404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26acd9a0ea7e6c3f0800000000000000
+      internalID: -880761942415914398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6be2a990fded10800000000000000
+      internalID: 2156644339234336389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138a7c61d71965cf0800000000000000
+      internalID: -263863561715472335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab91cb05662e7830800000000000000
+      internalID: 4070733328620297127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b379e0b959d4320800000000000000
+      internalID: 2543853857731459967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4fe8b0807e28be0800000000000000
+      internalID: -1476363706084428578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb544289a64ac8e0800000000000000
+      internalID: -1672446617765782555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilemap_Kitchen_And_Seats_16x_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271a73047d0249f0800000000000000
+      internalID: -485811017876891860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tilemap_Kitchen_And_Seats_16x_0: 4474294120643621073
+      Tilemap_Kitchen_And_Seats_16x_1: -5143551731547173686
+      Tilemap_Kitchen_And_Seats_16x_10: -1627027116467594969
+      Tilemap_Kitchen_And_Seats_16x_11: 5132140064154919042
+      Tilemap_Kitchen_And_Seats_16x_12: -1066444654224752768
+      Tilemap_Kitchen_And_Seats_16x_13: 4561893730917399146
+      Tilemap_Kitchen_And_Seats_16x_14: 643178255789137163
+      Tilemap_Kitchen_And_Seats_16x_15: 661628264939857404
+      Tilemap_Kitchen_And_Seats_16x_16: -880761942415914398
+      Tilemap_Kitchen_And_Seats_16x_17: 2156644339234336389
+      Tilemap_Kitchen_And_Seats_16x_18: -263863561715472335
+      Tilemap_Kitchen_And_Seats_16x_19: 4070733328620297127
+      Tilemap_Kitchen_And_Seats_16x_2: -2117245327114339640
+      Tilemap_Kitchen_And_Seats_16x_20: 2543853857731459967
+      Tilemap_Kitchen_And_Seats_16x_21: -1476363706084428578
+      Tilemap_Kitchen_And_Seats_16x_22: -1672446617765782555
+      Tilemap_Kitchen_And_Seats_16x_23: -485811017876891860
+      Tilemap_Kitchen_And_Seats_16x_3: -1509831970821165716
+      Tilemap_Kitchen_And_Seats_16x_4: 6827569677040005118
+      Tilemap_Kitchen_And_Seats_16x_5: 5431205809041871265
+      Tilemap_Kitchen_And_Seats_16x_6: 4450691075582979132
+      Tilemap_Kitchen_And_Seats_16x_7: 7682037249632104379
+      Tilemap_Kitchen_And_Seats_16x_8: -315284134714792868
+      Tilemap_Kitchen_And_Seats_16x_9: -3342011281065245249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
